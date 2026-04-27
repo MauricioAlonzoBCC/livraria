@@ -133,11 +133,4 @@ public class EditoraController extends HttpServlet{
             response.sendRedirect("lista");
         }
 
-
-
-
-
-
-
-
 }
